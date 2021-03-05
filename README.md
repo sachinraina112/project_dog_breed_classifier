@@ -8,3 +8,6 @@ Below is the description about the notebook:
 Download the dog dataset here(https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). The dogImages/ folder should contain 133 folders, each corresponding to a different dog breed.
 
 Download the human dataset here(http://vis-www.cs.umass.edu/lfw/lfw.tgz). 
+
+You can set up the environment from requirements.txt by using below command in your virtual environment:
+```pip install -r requirements.txt```
